@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">chatapp</string>
+    //input label
+    <string name="input_label_gmail">Email Address</string>
+    <string name="input_label_password">Password</string>
+    <string name="input_label_fullname">Fullname</string>
+    <string name="input_label_confirm_password">Confirm Pasword</string>
+    //input field
+    <string name="input_gmail">Enter your email</string>
+    <string name="input_password">Enter your password</string>
+    <string name="input_fullname">Enter your fullname</string>
+    <string name="input_confirm_password">Enter your confirm password</string>
+    //string
+    <string name="string_or">OR</string>
+    <string name="string_remember">Remember me</string>
+    <string name="string_login">Login</string>
+    <string name="title_text_login">Log in to your Account</string>
+    <string name="title_text_register">Create an Account</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="describe_login">Welcome back, please enter your details.</string>
+    <string name="string_sign_up">Sign Up?</string>
+
+    <string name="default_web_client_id">your-client-id.apps.googleusercontent.com</string>
+</resources>

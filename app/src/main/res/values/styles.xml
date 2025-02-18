@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TitleText">
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+
+    <style name="InputLabel">
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/secondary_700</item>
+    </style>
+
+
+    <style name="InputField">
+        <item name="android:background">@drawable/input_backgroud</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:paddingStart">15dp</item>
+    </style>
+
+</resources>
